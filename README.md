@@ -1,0 +1,1 @@
+A simple bejewelled clone - currently text only, testing the mechanics of creating a board of colours (represented by values), detecting 3 in a vertical / horizontal line, and then 'deleting' them and dropping the jewels above down. Mostly working.
